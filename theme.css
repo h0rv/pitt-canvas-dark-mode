@@ -1,0 +1,313 @@
+/* ==UserStyle==
+@name           Pitt Canvas Dark Mode
+@namespace      https://github.com/robbyhorvath/pitt-canvas-dark-mode
+@version        1.0.0
+@author         https://github.com/robbyhorvath
+==/UserStyle== */
+@-moz-document url-prefix("https://canvas.pitt.edu/") {
+    p,
+    span,
+    strong {
+        color: #F8F9FA;
+    }
+    body {
+        background-color: #343434;
+        color: #F8F9FA;
+        font-weight: 300;
+    }
+    div {
+        color: #F8F9FA
+    }
+    button {
+        color: #F8F9FA !important
+    }
+
+    a,
+    svg {
+        color: #CDB87D !important
+    }
+
+    /*  */
+    .ic-app-header__main-navigation {
+        background: #CDB87D !important
+    }
+    .menu-item__text {
+        color: #000 !important
+    }
+    .ic-app-header__menu-list-link,
+    .ic-icon-svg {
+        fill: #1C2957 !important
+    }
+    .menu-item,
+    .ic-app-header__menu-list-item {
+        background: #CDB87D !important
+    }
+    .ic-avatar {
+        border: none
+    }
+    /* end of nav */
+    .fQfxa_biBD {
+        color: #343434
+    }
+    .fhWLw_bGBk {
+        display: none
+    }
+    #planner-todosidebar-item-list li span {
+        color: #CDB87D !important
+    }
+    #breadcrumbs {
+        background-color: #343434
+    }
+    .ic-DashboardCard__header-subtitle,
+    .ellipsis {
+        color: #F8F9FA !important
+    }
+    .event-details::after,
+    .ic-app-header__logomark {
+        display: none
+    }
+    .percent {
+        color: #CDB87D !important
+    }
+    .event-details__context {
+        color: #CDB87D !important
+    }
+    .ic-Layout-contentMain {
+        background-color: #343434
+    }
+    .medium ic-Dashboard-header__layout {
+        background-color: #343434
+    }
+    .ic-Dashboard-header {
+        background-color: #343434
+    }
+    .ic-Dashboard-header__title {
+        background-color: #343434
+    }
+    .dashboard_header_container {
+        background-color: #343434
+    }
+    .ic-dashboard-app {
+        background-color: #343434
+    }
+    #content {
+        background-color: #343434
+    }
+    .ic-Dashboard-header__actions {
+        background-color: #343434
+    }
+    .dashboard-planner-header-aux {
+        background-color: #343434
+    }
+    .ic-Dashboard-header__layout {
+        background-color: #343434
+    }
+    .ic-DashboardCard__action-container {
+        background-color: #464646
+    }
+    .ic-DashboardCard {
+        background-color: #464646
+    }
+    .ic-DashboardCard__header_content {
+        background-color: #464646
+    }
+    .cAqHo_eAjd {
+        background: #343434 !important
+    }
+    .eoNrR_bGBk {
+        background-color: #343434
+    }
+    .eoNrR_blJt {
+        background-color: #343434;
+        color: #F8F9FA;
+    }
+    .sJGfW_bGBk {
+        background-color: #343434;
+        color: #F8F9FA;
+    }
+    .eoNrR_JelF {
+        color: #F8F9FA;
+    }
+    .ic-DashboardCard__action-badge {
+        background: #1C2957 !important
+    }
+    /* end of dashboard */
+    .navigation-tray-container {
+        background-color: #343434;
+        color: #F8F9FA;
+    }
+    .fLzZc_caGd {
+        background-color: #343434;
+    }
+    .ic-Dashboard-header__layout,
+    #right-side h2,
+    #right-side .h2 {
+        border: none;
+    }
+
+    /* end of account tab */
+    .btn,
+    .Button,
+    .ui-button,
+    .navigation_buttons,
+    .ui-buttonset,
+    .navigate_next,
+    .ui-button,
+    .ui-widget,
+    .ui-state-default,
+    .ui-button-text-only,
+    .ui-corner-right,
+    .agenda-container,
+    .agenda-today,
+    .fc-widget-content,
+    .ui-dialog .ui-dialog-titlebar.ui-widget-header,
+    .ui-dialog .ui-datepicker .ui-widget-header.ui-datepicker-header,
+    .ui-datepicker .ui-dialog .ui-widget-header.ui-datepicker-header,
+    .ui-tabs .ui-tabs-panel {
+        background: #343434 !important;
+    }
+    .ic-Layout-contentMain {
+        background-color: #343434 !important;
+        color: #F8F9FA !important;
+    }
+    .fc-day-grid-container,
+    .rs-section,
+    #context-list-holde,
+    .dXATK_bGBk,
+    .dXATK_cAug,
+    .czbXA_bGBk,
+    .cDwzl_caGd,
+    .eJkkQ_bEpV,
+    #context-list .context_list_context {
+        background-color: #464646 !important;
+        color: #F8F9FA !important;
+    }
+    .fc-event-container,
+    .fc-day-grid-event,
+    .fc-h-event,
+    .fc-event,
+    .fc-start,
+    .fc-end,
+    .fc-day-number,
+    .fc-thu,
+    .fc-today,
+    .fc-toolbar,
+    .fc-view-container,
+    .fc-day-grid {
+        color: #F8F9FA !important;
+        background-color: #464646 !important;
+    }
+    .fc-state-highlight {
+        background: #1C2957 !important
+    }
+    .fc-row,
+    .fc-widget-header,
+    .fc-center,
+    .datetime_suggest {
+        color: #F8F9FA !important;
+    }
+    td {
+        color: #F8F9FA !important
+    }
+    td,
+    .fc th,
+    .fc td {
+        background: #464646 !important
+    }
+    #calendar-app .fc-month-view .fc-widget-header,
+    #calendar-drag-and-drop-container .fc-month-view .fc-widget-header {
+        background-color: #343434 !important;
+        border: none;
+        color: #CDB87D !important
+    }
+    .fc-view-container {
+        border: none !important;
+    }
+
+    #calendar-feed {
+        background: #343434 !important
+    }
+
+    /* end of calender */
+    .recent-activity-header {
+        border: none
+    }
+    .ic-notification {
+        border: none
+    }
+    .ic-notification__icon {
+        background: #CDB87D !important
+    }
+    .ic-notification__content,
+    .ic-Table.ic-Table--condensed td,
+    .unpinned-discussions-v2__wrapper,
+    .discussions-v2__container-image,
+    .closed-for-comments-discussions-v2__wrapper,
+    .item-group-container,
+    .item-box,
+    .ig-header,
+    .emptyMessage,
+    .message {
+        background-color: #343434 !important;
+        color: #F8F9FA !important;
+    }
+    .new_page {
+        color: #CDB87D !important
+    }
+    .shared-space h2 {
+        color: #CDB87D !important
+    }
+    .header-bar {
+        background: none
+    }
+
+    /* end of groups */
+    .panel,
+    .panel__primary,
+    .message-list .messages > li {
+        background-color: #343434 !important;
+        color: #F8F9FA !important;
+    }
+    .message-list .messages > li h1,
+    .message-list .messages > li h2,
+    .message-list .messages > li div,
+    .message-list .messages > li h3 {
+        color: #F8F9FA !important;
+    }
+
+    .message-list .message-count {
+        background: #CDB87D !important
+    }
+
+    /* end of inbox */
+    /* scrollbar */
+    body::-webkit-scrollbar-track {
+        border: none;
+        padding: 2px 0;
+        background: #292929
+    }
+    div::-webkit-scrollbar-track {
+        border: none;
+        padding: 2px 0;
+        background: #292929
+    }
+
+    body::-webkit-scrollbar {
+        width: 5px;
+    }
+    div::-webkit-scrollbar {
+        width: 5px;
+    }
+
+    body::-webkit-scrollbar-thumb {
+        border-radius: 4px;
+        background-color: #C0C0C0;
+        border: none;
+    }
+    div::-webkit-scrollbar-thumb {
+        border-radius: 4px;
+        background-color: #C0C0C0;
+        border: none;
+    }
+    /* scrollbar */
+}
