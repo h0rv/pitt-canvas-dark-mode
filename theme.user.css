@@ -157,7 +157,8 @@
     .cAqHo_eAjd ul li span {
         color: #F8F9FA !important;
     }
-    .eoNrR_blJt {
+    .eoNrR_blJt,
+    .score_value {
         color: #CDB87D !important
     }
 
@@ -179,10 +180,12 @@
     .ui-dialog .ui-dialog-titlebar.ui-widget-header,
     .ui-dialog .ui-datepicker .ui-widget-header.ui-datepicker-header,
     .ui-datepicker .ui-dialog .ui-widget-header.ui-datepicker-header,
-    .ui-tabs .ui-tabs-panel {
+    .ui-tabs .ui-tabs-panel,
+    .module-sequence-footer-content {
         background: #343434 !important;
     }
-    .ic-Layout-contentMain {
+    .ic-Layout-contentMain,
+    .alert {
         background-color: #343434 !important;
         color: #F8F9FA !important;
     }
@@ -211,19 +214,28 @@
     .fc-view-container,
     .fc-day-grid,
     .all_questions,
+    .quiz-submission,
+    .quiz_score,
     .last_page,
     .assessing,
     .quiz_sortable,
     .question_holder,
     .display_question,
     .question,
-    .multiple_choice_question, .header {
+    .multiple_choice_question,
+    .header {
         color: #F8F9FA !important;
         background-color: #464646 !important;
     }
     .fc-state-highlight {
         background: #1C2957 !important
     }
+
+    .summary tbody tr th {
+        color: #F8F9FA !important;
+        background-color: #464646 !important;
+    }
+
     .fc-row,
     .fc-widget-header,
     .fc-center,
