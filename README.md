@@ -9,5 +9,5 @@ Dark mode for the Canvas web app for University of Pittsburgh students. #h2p
 2. To install directly from GitHub, click here: <br />
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/robbyhorvath/pitt-canvas-dark-mode/master/theme.user.css)
 
-_Note_
+_Note_<br />
 Your canvas pages may look a little different than mine and have pages I was unable to edit. Sorry for any inconveinces.
