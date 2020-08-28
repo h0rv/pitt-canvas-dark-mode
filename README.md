@@ -11,7 +11,7 @@ Dark mode for the Canvas web app for University of Pittsburgh students with the 
 ![Sample Image](showcase-before.png)
 ![Sample Image](showcase-after.png) <br />
 
-In the Stylus extension you can edit the theme to your liking. (Ctrl+F and replace all hex codes to ones of your liking)
+*** In the Stylus extension you can edit the theme to your liking. (Ctrl+F and replace all hex codes to ones of your liking)
 
 _Note_<br />
 Your canvas pages may look a little different than mine and have pages I was unable to edit. Sorry for any inconveinces.
