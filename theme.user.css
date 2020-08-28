@@ -247,7 +247,10 @@
     }
     td,
     .fc th,
-    .fc td {
+    .fc td,
+    .entry-content,
+    .discussion_entry,
+    .message {
         background: #464646 !important
     }
     #calendar-app .fc-month-view .fc-widget-header,
@@ -302,8 +305,7 @@
     .item-group-container,
     .item-box,
     .ig-header,
-    .emptyMessage,
-    .message {
+    .emptyMessage {
         background-color: #343434 !important;
         color: #F8F9FA !important;
     }
