@@ -14,4 +14,4 @@ Dark mode for the Canvas web app for University of Pittsburgh students with the 
 *** In the Stylus extension you can edit the theme to your liking. (Ctrl+F and replace all hex codes to ones of your liking. Gold is #CDB87D; Navy is #1C2957).
 
 _Note_<br />
-Your canvas pages may look a little different than mine and have pages I was unable to edit. Sorry for any inconveinces.
+Make sure to keep the theme updated in the Stylus extension. Your canvas pages may look a little different than mine and have pages I was unable to edit. Sorry for any inconveinces. 
