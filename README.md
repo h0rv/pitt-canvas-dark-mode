@@ -1,6 +1,6 @@
 # pitt-canvas-dark-mode
  
-Dark mode for the Canvas web app for University of Pittsburgh students. #h2p
+Dark mode for the Canvas web app for University of Pittsburgh students with the classic Pitt colors. #h2p
 
 ## Installation
 1. Download Stylus for your browser: 
