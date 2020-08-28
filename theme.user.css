@@ -231,6 +231,24 @@
         background: #343434 !important
     }
 
+
+    .item-group-condensed .ig-list li:first-child .ig-row,
+    .item-group-condensed .ig-list li:first-of-type .ig-row,
+    .item-group-condensed .first_visible .ig-row,
+    .item-group-condensed context_module,
+    .student-view,
+    .completed,
+    .context_module_hover,
+    .ig-row,
+    .ig-published,
+    .student-view {
+        background: #343434 !important
+    }
+    .name {
+        color: #F8F9FA !important;
+    }
+
+    /*    end of courses  */
     /* end of calender */
     .recent-activity-header {
         border: none
