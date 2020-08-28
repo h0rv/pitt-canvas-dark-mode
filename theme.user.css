@@ -230,8 +230,6 @@
     #calendar-feed {
         background: #343434 !important
     }
-
-
     .item-group-condensed .ig-list li:first-child .ig-row,
     .item-group-condensed .ig-list li:first-of-type .ig-row,
     .item-group-condensed .first_visible .ig-row,
@@ -241,7 +239,10 @@
     .context_module_hover,
     .ig-row,
     .ig-published,
-    .student-view {
+    .student-view,
+    .ic-discussion-row,
+    .toolbarView, .headerBar,
+    .alert-info{
         background: #343434 !important
     }
     .name {
