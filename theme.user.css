@@ -48,6 +48,9 @@
     .mobile-header-title {
         background: #CDB87D !important
     }
+    .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link {
+        background: #b09d6a
+    }
     /* end of nav */
     .fQfxa_biBD {
         color: #343434
@@ -241,8 +244,9 @@
     .ig-published,
     .student-view,
     .ic-discussion-row,
-    .toolbarView, .headerBar,
-    .alert-info{
+    .toolbarView,
+    .headerBar,
+    .alert-info {
         background: #343434 !important
     }
     .name {
