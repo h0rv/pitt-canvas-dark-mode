@@ -8,7 +8,7 @@ Dark mode for the Canvas web app for University of Pittsburgh students with the 
   - [Firefox](https://addons.mozilla.org/firefox/addon/styl-us/)
 2. Install the theme: <br />
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/robbyhorvath/pitt-canvas-dark-mode/master/theme.user.css)
-
+![Sample Image](showcase-before.png)
 ![Sample Image](showcase.png)
 
 _Note_<br />
