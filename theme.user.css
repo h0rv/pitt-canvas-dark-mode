@@ -51,6 +51,10 @@
     .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link {
         background: #b09d6a
     }
+    .cjUyb_bGBk.cjUyb_fpfC,
+    input.cjUyb_bGBk[type].cjUyb_fpfC {
+        color: #F8F9FA;
+    }
     /* end of nav */
     .fQfxa_biBD {
         color: #343434
@@ -150,6 +154,12 @@
     #right-side .h2 {
         border: none;
     }
+    .cAqHo_eAjd ul li span {
+        color: #F8F9FA !important;
+    }
+    .eoNrR_blJt {
+        color: #CDB87D !important
+    }
 
     /* end of account tab */
     .btn,
@@ -199,7 +209,15 @@
     .fc-today,
     .fc-toolbar,
     .fc-view-container,
-    .fc-day-grid {
+    .fc-day-grid,
+    .all_questions,
+    .last_page,
+    .assessing,
+    .quiz_sortable,
+    .question_holder,
+    .display_question,
+    .question,
+    .multiple_choice_question, .header {
         color: #F8F9FA !important;
         background-color: #464646 !important;
     }
