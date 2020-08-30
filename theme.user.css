@@ -369,3 +369,9 @@
     }
     /* scrollbar */
 }
+
+
+/* Fix Hover Color */
+.stream_header:hover {
+    background: #767a7b;
+}
