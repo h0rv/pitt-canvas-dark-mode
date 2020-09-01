@@ -185,7 +185,10 @@
         background: #343434 !important;
     }
     .ic-Layout-contentMain,
-    .alert {
+    .alert,
+    .comments,
+    .bZMhq_bGBk,
+    .file-upload-submission {
         background-color: #343434 !important;
         color: #F8F9FA !important;
     }
@@ -368,10 +371,4 @@
         border: none;
     }
     /* scrollbar */
-}
-
-
-/* Fix Hover Color */
-.stream_header:hover {
-    background: #767a7b;
 }
