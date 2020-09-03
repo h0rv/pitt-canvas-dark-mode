@@ -38,6 +38,9 @@
     .ic-icon-svg {
         fill: #1C2957 !important
     }
+    .menu-item__badge {
+        background: #1C2957
+    }
     .menu-item,
     .ic-app-header__menu-list-item {
         background: #CDB87D !important
