@@ -157,7 +157,8 @@
     #right-side .h2 {
         border: none;
     }
-    .cAqHo_eAjd ul li span {
+    .cAqHo_eAjd ul li span,
+    .comment {
         color: #F8F9FA !important;
     }
     .eoNrR_blJt,
