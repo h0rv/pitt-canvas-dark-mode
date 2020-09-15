@@ -381,7 +381,7 @@
 
 /* drop down selections */
 select, #course_select_menu, #apply_select_menus, #assignment_sort_order_select_menu {
-  color: white;
+  color: #F8F9FA;
   background-color: #282828;
   border-color: #cdb87d
 }
