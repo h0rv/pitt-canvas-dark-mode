@@ -378,3 +378,10 @@
     }
     /* scrollbar */
 }
+
+/* drop down selections */
+select, #course_select_menu, #apply_select_menus, #assignment_sort_order_select_menu {
+  color: white;
+  background-color: #282828;
+  border-color: #cdb87d
+}
