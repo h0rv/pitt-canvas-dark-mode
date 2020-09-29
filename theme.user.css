@@ -8,18 +8,18 @@
     p,
     span,
     strong {
-        color: #F8F9FA;
+        color: rgb(240, 244, 246);
     }
     body {
-        background-color: #343434;
-        color: #F8F9FA;
+        background-color: rgb(33, 36, 39);
+        color: rgb(240, 244, 246);
         font-weight: 300;
     }
     div {
-        color: #F8F9FA
+        color: rgb(240, 244, 246)
     }
     button {
-        color: #F8F9FA !important
+        color: rgb(240, 244, 246) !important
     }
 
     a,
@@ -56,11 +56,11 @@
     }
     .cjUyb_bGBk.cjUyb_fpfC,
     input.cjUyb_bGBk[type].cjUyb_fpfC {
-        color: #F8F9FA;
+        color: rgb(240, 244, 246);
     }
     /* end of nav */
     .fQfxa_biBD {
-        color: #343434
+        color: rgb(33, 36, 39)
     }
     .fhWLw_bGBk {
         display: none
@@ -69,11 +69,11 @@
         color: #CDB87D !important
     }
     #breadcrumbs {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     .ic-DashboardCard__header-subtitle,
     .ellipsis {
-        color: #F8F9FA !important
+        color: rgb(240, 244, 246) !important
     }
     .event-details::after,
     .ic-app-header__logomark {
@@ -86,71 +86,71 @@
         color: #CDB87D !important
     }
     .ic-Layout-contentMain {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     .medium ic-Dashboard-header__layout {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     .ic-Dashboard-header {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     .ic-Dashboard-header__title {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     .dashboard_header_container {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     .ic-dashboard-app {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     #content {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     .ic-Dashboard-header__actions {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     .dashboard-planner-header-aux {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     .ic-Dashboard-header__layout {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     .ic-DashboardCard__action-container {
-        background-color: #464646
+        background-color: rgb(52, 56, 60)
     }
     .ic-DashboardCard {
-        background-color: #464646
+        background-color: rgb(52, 56, 60)
     }
     .ic-DashboardCard__header_content {
-        background-color: #464646
+        background-color: rgb(52, 56, 60)
     }
     .cAqHo_eAjd {
-        background: #343434 !important
+        background: rgb(33, 36, 39) !important
     }
     .eoNrR_bGBk {
-        background-color: #343434
+        background-color: rgb(33, 36, 39)
     }
     .eoNrR_blJt {
-        background-color: #343434;
-        color: #F8F9FA;
+        background-color: rgb(33, 36, 39);
+        color: rgb(240, 244, 246);
     }
     .sJGfW_bGBk {
-        background-color: #343434;
-        color: #F8F9FA;
+        background-color: rgb(33, 36, 39);
+        color: rgb(240, 244, 246);
     }
     .eoNrR_JelF {
-        color: #F8F9FA;
+        color: rgb(240, 244, 246);
     }
     .ic-DashboardCard__action-badge {
         background: #1C2957 !important
     }
     /* end of dashboard */
     .navigation-tray-container {
-        background-color: #343434;
-        color: #F8F9FA;
+        background-color: rgb(33, 36, 39);
+        color: rgb(240, 244, 246);
     }
     .fLzZc_caGd {
-        background-color: #343434;
+        background-color: rgb(33, 36, 39);
     }
     .ic-Dashboard-header__layout,
     #right-side h2,
@@ -159,7 +159,7 @@
     }
     .cAqHo_eAjd ul li span,
     .comment {
-        color: #F8F9FA !important;
+        color: rgb(240, 244, 246) !important;
     }
     .eoNrR_blJt,
     .score_value {
@@ -186,15 +186,15 @@
     .ui-datepicker .ui-dialog .ui-widget-header.ui-datepicker-header,
     .ui-tabs .ui-tabs-panel,
     .module-sequence-footer-content {
-        background: #343434 !important;
+        background: rgb(33, 36, 39) !important;
     }
     .ic-Layout-contentMain,
     .alert,
     .comments,
     .bZMhq_bGBk,
     .file-upload-submission {
-        background-color: #343434 !important;
-        color: #F8F9FA !important;
+        background-color: rgb(33, 36, 39) !important;
+        color: rgb(240, 244, 246) !important;
     }
     .fc-day-grid-container,
     .rs-section,
@@ -205,8 +205,8 @@
     .cDwzl_caGd,
     .eJkkQ_bEpV,
     #context-list .context_list_context {
-        background-color: #464646 !important;
-        color: #F8F9FA !important;
+        background-color: rgb(52, 56, 60) !important;
+        color: rgb(240, 244, 246) !important;
     }
     .fc-event-container,
     .fc-day-grid-event,
@@ -232,36 +232,36 @@
     .question,
     .multiple_choice_question,
     .header {
-        color: #F8F9FA !important;
-        background-color: #464646 !important;
+        color: rgb(240, 244, 246) !important;
+        background-color: rgb(52, 56, 60) !important;
     }
     .fc-state-highlight {
         background: #1C2957 !important
     }
 
     .summary tbody tr th {
-        color: #F8F9FA !important;
-        background-color: #464646 !important;
+        color: rgb(240, 244, 246) !important;
+        background-color: rgb(52, 56, 60) !important;
     }
 
     .fc-row,
     .fc-widget-header,
     .fc-center,
     .datetime_suggest {
-        color: #F8F9FA !important;
+        color: rgb(240, 244, 246) !important;
     }
     td {
-        color: #F8F9FA !important
+        color: rgb(240, 244, 246) !important
     }
     td,
     .fc th,
     .fc td,
     .discussion_entry {
-        background: #464646 !important
+        background: rgb(52, 56, 60) !important
     }
     #calendar-app .fc-month-view .fc-widget-header,
     #calendar-drag-and-drop-container .fc-month-view .fc-widget-header {
-        background-color: #343434 !important;
+        background-color: rgb(33, 36, 39) !important;
         border: none;
         color: #CDB87D !important
     }
@@ -270,7 +270,7 @@
     }
 
     #calendar-feed {
-        background: #343434 !important
+        background: rgb(33, 36, 39) !important
     }
     .item-group-condensed .ig-list li:first-child .ig-row,
     .item-group-condensed .ig-list li:first-of-type .ig-row,
@@ -286,10 +286,10 @@
     .toolbarView,
     .headerBar,
     .alert-info {
-        background: #343434 !important
+        background: rgb(33, 36, 39) !important
     }
     .name {
-        color: #F8F9FA !important;
+        color: rgb(240, 244, 246) !important;
     }
 
     /*    end of courses  */
@@ -315,8 +315,8 @@
     .entry-content,
     .user_content,
     .message p {
-        background-color: #343434 !important;
-        color: #F8F9FA !important;
+        background-color: rgb(33, 36, 39) !important;
+        color: rgb(240, 244, 246) !important;
     }
     .new_page {
         color: #CDB87D !important
@@ -332,14 +332,14 @@
     .panel,
     .panel__primary,
     .message-list .messages > li {
-        background-color: #343434 !important;
-        color: #F8F9FA !important;
+        background-color: rgb(33, 36, 39) !important;
+        color: rgb(240, 244, 246) !important;
     }
     .message-list .messages > li h1,
     .message-list .messages > li h2,
     .message-list .messages > li div,
     .message-list .messages > li h3 {
-        color: #F8F9FA !important;
+        color: rgb(240, 244, 246) !important;
     }
 
     .message-list .message-count {
@@ -382,7 +382,7 @@
     #course_select_menu,
     #apply_select_menus,
     #assignment_sort_order_select_menu {
-        color: #F8F9FA;
+        color: rgb(240, 244, 246);
         background-color: #282828;
         border-color: #cdb87d
     }
