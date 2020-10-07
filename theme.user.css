@@ -185,7 +185,8 @@
     .ui-dialog .ui-datepicker .ui-widget-header.ui-datepicker-header,
     .ui-datepicker .ui-dialog .ui-widget-header.ui-datepicker-header,
     .ui-tabs .ui-tabs-panel,
-    .module-sequence-footer-content {
+    .module-sequence-footer-content,
+    .rubric_title {
         background: rgb(33, 36, 39) !important;
     }
     .ic-Layout-contentMain,
@@ -204,7 +205,8 @@
     .czbXA_bGBk,
     .cDwzl_caGd,
     .eJkkQ_bEpV,
-    #context-list .context_list_context {
+    #context-list .context_list_context,
+    #rubrics {
         background-color: rgb(52, 56, 60) !important;
         color: rgb(240, 244, 246) !important;
     }
@@ -231,7 +233,8 @@
     #questions.assessing,
     .question,
     .multiple_choice_question,
-    .header {
+    .header,
+    th {
         color: rgb(240, 244, 246) !important;
         background-color: rgb(52, 56, 60) !important;
     }
