@@ -1,0 +1,392 @@
+/* ==UserStyle==
+@name           Pitt Canvas Dark Mode
+@namespace      https://github.com/robbyhorvath/pitt-canvas-dark-mode
+@version        1.0.0
+@author         https://github.com/robbyhorvath
+==/UserStyle== */
+@-moz-document url-prefix("https://canvas.pitt.edu/") {
+    p,
+    span,
+    strong {
+        color: rgb(240, 244, 246);
+    }
+    body {
+        background-color: rgb(33, 36, 39);
+        color: rgb(240, 244, 246);
+        font-weight: 300;
+    }
+    div {
+        color: rgb(240, 244, 246)
+    }
+    button {
+        color: rgb(240, 244, 246) !important
+    }
+
+    a,
+    svg {
+        color: #CDB87D !important
+    }
+
+    /*  */
+    .ic-app-header__main-navigation {
+        background: #CDB87D !important
+    }
+    .menu-item__text {
+        color: #000 !important
+    }
+    .ic-app-header__menu-list-link,
+    .ic-icon-svg {
+        fill: #1C2957 !important
+    }
+    .menu-item__badge {
+        background: #1C2957
+    }
+    .menu-item,
+    .ic-app-header__menu-list-item {
+        background: #CDB87D !important
+    }
+    .ic-avatar {
+        border: none
+    }
+    .mobile-header-title {
+        background: #CDB87D !important
+    }
+    .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link {
+        background: #b09d6a
+    }
+    .cjUyb_bGBk.cjUyb_fpfC,
+    input.cjUyb_bGBk[type].cjUyb_fpfC {
+        color: rgb(240, 244, 246);
+    }
+    /* end of nav */
+    .fQfxa_biBD {
+        color: rgb(33, 36, 39)
+    }
+    .fhWLw_bGBk {
+        display: none
+    }
+    #planner-todosidebar-item-list li span {
+        color: #CDB87D !important
+    }
+    #breadcrumbs {
+        background-color: rgb(33, 36, 39)
+    }
+    .ic-DashboardCard__header-subtitle,
+    .ellipsis {
+        color: rgb(240, 244, 246) !important
+    }
+    .event-details::after,
+    .ic-app-header__logomark {
+        display: none
+    }
+    .percent {
+        color: #CDB87D !important
+    }
+    .event-details__context {
+        color: #CDB87D !important
+    }
+    .ic-Layout-contentMain {
+        background-color: rgb(33, 36, 39)
+    }
+    .medium ic-Dashboard-header__layout {
+        background-color: rgb(33, 36, 39)
+    }
+    .ic-Dashboard-header {
+        background-color: rgb(33, 36, 39)
+    }
+    .ic-Dashboard-header__title {
+        background-color: rgb(33, 36, 39)
+    }
+    .dashboard_header_container {
+        background-color: rgb(33, 36, 39)
+    }
+    .ic-dashboard-app {
+        background-color: rgb(33, 36, 39)
+    }
+    #content {
+        background-color: rgb(33, 36, 39)
+    }
+    .ic-Dashboard-header__actions {
+        background-color: rgb(33, 36, 39)
+    }
+    .dashboard-planner-header-aux {
+        background-color: rgb(33, 36, 39)
+    }
+    .ic-Dashboard-header__layout {
+        background-color: rgb(33, 36, 39)
+    }
+    .ic-DashboardCard__action-container {
+        background-color: rgb(52, 56, 60)
+    }
+    .ic-DashboardCard {
+        background-color: rgb(52, 56, 60)
+    }
+    .ic-DashboardCard__header_content {
+        background-color: rgb(52, 56, 60)
+    }
+    .cAqHo_eAjd {
+        background: rgb(33, 36, 39) !important
+    }
+    .eoNrR_bGBk {
+        background-color: rgb(33, 36, 39)
+    }
+    .eoNrR_blJt {
+        background-color: rgb(33, 36, 39);
+        color: rgb(240, 244, 246);
+    }
+    .sJGfW_bGBk {
+        background-color: rgb(33, 36, 39);
+        color: rgb(240, 244, 246);
+    }
+    .eoNrR_JelF {
+        color: rgb(240, 244, 246);
+    }
+    .ic-DashboardCard__action-badge {
+        background: #1C2957 !important
+    }
+    /* end of dashboard */
+    .navigation-tray-container {
+        background-color: rgb(33, 36, 39);
+        color: rgb(240, 244, 246);
+    }
+    .fLzZc_caGd {
+        background-color: rgb(33, 36, 39);
+    }
+    .ic-Dashboard-header__layout,
+    #right-side h2,
+    #right-side .h2 {
+        border: none;
+    }
+    .cAqHo_eAjd ul li span,
+    .comment {
+        color: rgb(240, 244, 246) !important;
+    }
+    .eoNrR_blJt,
+    .score_value {
+        color: #CDB87D !important
+    }
+
+    /* end of account tab */
+    .btn,
+    .Button,
+    .ui-button,
+    .navigation_buttons,
+    .ui-buttonset,
+    .navigate_next,
+    .ui-button,
+    .ui-widget,
+    .ui-state-default,
+    .ui-button-text-only,
+    .ui-corner-right,
+    .agenda-container,
+    .agenda-today,
+    .fc-widget-content,
+    .ui-dialog .ui-dialog-titlebar.ui-widget-header,
+    .ui-dialog .ui-datepicker .ui-widget-header.ui-datepicker-header,
+    .ui-datepicker .ui-dialog .ui-widget-header.ui-datepicker-header,
+    .ui-tabs .ui-tabs-panel,
+    .module-sequence-footer-content,
+    .rubric_title {
+        background: rgb(33, 36, 39) !important;
+    }
+    .ic-Layout-contentMain,
+    .alert,
+    .comments,
+    .bZMhq_bGBk,
+    .file-upload-submission {
+        background-color: rgb(33, 36, 39) !important;
+        color: rgb(240, 244, 246) !important;
+    }
+    .fc-day-grid-container,
+    .rs-section,
+    #context-list-holde,
+    .dXATK_bGBk,
+    .dXATK_cAug,
+    .czbXA_bGBk,
+    .cDwzl_caGd,
+    .eJkkQ_bEpV,
+    #context-list .context_list_context,
+    #rubrics {
+        background-color: rgb(52, 56, 60) !important;
+        color: rgb(240, 244, 246) !important;
+    }
+    .fc-event-container,
+    .fc-day-grid-event,
+    .fc-h-event,
+    .fc-event,
+    .fc-start,
+    .fc-end,
+    .fc-day-number,
+    .fc-thu,
+    .fc-today,
+    .fc-toolbar,
+    .fc-view-container,
+    .fc-day-grid,
+    .all_questions,
+    .question .text .question_text,
+    .quiz-submission,
+    .quiz_score,
+    .last_page,
+    .quiz_sortable,
+    .question_holder,
+    .display_question,
+    #questions.assessing,
+    .question,
+    .multiple_choice_question,
+    .header,
+    th {
+        color: rgb(240, 244, 246) !important;
+        background-color: rgb(52, 56, 60) !important;
+    }
+    .fc-state-highlight {
+        background: #1C2957 !important
+    }
+
+    .summary tbody tr th {
+        color: rgb(240, 244, 246) !important;
+        background-color: rgb(52, 56, 60) !important;
+    }
+
+    .fc-row,
+    .fc-widget-header,
+    .fc-center,
+    .datetime_suggest {
+        color: rgb(240, 244, 246) !important;
+    }
+    td {
+        color: rgb(240, 244, 246) !important
+    }
+    td,
+    .fc th,
+    .fc td,
+    .discussion_entry {
+        background: rgb(52, 56, 60) !important
+    }
+    #calendar-app .fc-month-view .fc-widget-header,
+    #calendar-drag-and-drop-container .fc-month-view .fc-widget-header {
+        background-color: rgb(33, 36, 39) !important;
+        border: none;
+        color: #CDB87D !important
+    }
+    .fc-view-container {
+        border: none !important;
+    }
+
+    #calendar-feed {
+        background: rgb(33, 36, 39) !important
+    }
+    .item-group-condensed .ig-list li:first-child .ig-row,
+    .item-group-condensed .ig-list li:first-of-type .ig-row,
+    .item-group-condensed .first_visible .ig-row,
+    .item-group-condensed context_module,
+    .student-view,
+    .completed,
+    .context_module_hover,
+    .ig-row,
+    .ig-published,
+    .student-view,
+    .ic-discussion-row,
+    .toolbarView,
+    .headerBar,
+    .alert-info {
+        background: rgb(33, 36, 39) !important
+    }
+    .name {
+        color: rgb(240, 244, 246) !important;
+    }
+
+    /*    end of courses  */
+    /* end of calender */
+    .recent-activity-header {
+        border: none
+    }
+    .ic-notification {
+        border: none
+    }
+    .ic-notification__icon {
+        background: #CDB87D !important
+    }
+    .ic-notification__content,
+    .ic-Table.ic-Table--condensed td,
+    .unpinned-discussions-v2__wrapper,
+    .discussions-v2__container-image,
+    .closed-for-comments-discussions-v2__wrapper,
+    .item-group-container,
+    .item-box,
+    .ig-header,
+    .emptyMessage,
+    .entry-content,
+    .user_content,
+    .message p {
+        background-color: rgb(33, 36, 39) !important;
+        color: rgb(240, 244, 246) !important;
+    }
+    .new_page {
+        color: #CDB87D !important
+    }
+    .shared-space h2 {
+        color: #CDB87D !important
+    }
+    .header-bar {
+        background: none
+    }
+
+    /* end of groups */
+    .panel,
+    .panel__primary,
+    .message-list .messages > li {
+        background-color: rgb(33, 36, 39) !important;
+        color: rgb(240, 244, 246) !important;
+    }
+    .message-list .messages > li h1,
+    .message-list .messages > li h2,
+    .message-list .messages > li div,
+    .message-list .messages > li h3 {
+        color: rgb(240, 244, 246) !important;
+    }
+
+    .message-list .message-count {
+        background: #CDB87D !important
+    }
+
+    /* end of inbox */
+    /* scrollbar */
+    body::-webkit-scrollbar-track {
+        border: none;
+        padding: 2px 0;
+        background: #292929
+    }
+    div::-webkit-scrollbar-track {
+        border: none;
+        padding: 2px 0;
+        background: #292929
+    }
+
+    body::-webkit-scrollbar {
+        width: 5px;
+    }
+    div::-webkit-scrollbar {
+        width: 5px;
+    }
+
+    body::-webkit-scrollbar-thumb {
+        border-radius: 4px;
+        background-color: #C0C0C0;
+        border: none;
+    }
+    div::-webkit-scrollbar-thumb {
+        border-radius: 4px;
+        background-color: #C0C0C0;
+        border: none;
+    }
+    /* scrollbar */
+    /* drop down selections */
+    select,
+    #course_select_menu,
+    #apply_select_menus,
+    #assignment_sort_order_select_menu {
+        color: rgb(240, 244, 246);
+        background-color: #282828;
+        border-color: #cdb87d
+    }
+}
