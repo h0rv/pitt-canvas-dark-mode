@@ -12,11 +12,11 @@ Dark mode for the Canvas web app for University of Pittsburgh students with the 
 _Based off of [https://draculatheme.com/](https://draculatheme.com/)._
 
 
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://github.com/robbyhorvath/pitt-canvas-dark-mode/raw/master/dracula%20theme/theme.user.css) <br/>
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/robbyhorvath/pitt-canvas-dark-mode/master/dracula-theme/theme.user.css) <br/>
 
 <h2>Install the dark theme:</h2>
 
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://github.com/robbyhorvath/pitt-canvas-dark-mode/raw/master/dark%20theme/theme.user.css)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/robbyhorvath/pitt-canvas-dark-mode/master/dark-theme/theme.user.css)
 
 No theme:
 ![Sample Image](imgs/showcase-before.png)
