@@ -18,7 +18,8 @@
     div {
         color: #f8f8f2
     }
-    button {
+    button,
+    span {
         color: #f8f8f2 !important
     }
 
