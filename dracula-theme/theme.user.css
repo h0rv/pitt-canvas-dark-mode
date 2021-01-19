@@ -18,8 +18,7 @@
     div {
         color: #f8f8f2
     }
-    button,
-    span {
+    button {
         color: #f8f8f2 !important
     }
 
@@ -194,9 +193,56 @@
     .alert,
     .comments,
     .bZMhq_bGBk,
-    .file-upload-submission {
+    .file-upload-submission,
+    .canvas-rce__skins--root,
+    .tox,
+    .tox-tinymce,
+    .tox-tinymce--toolbar-sticky-off,
+    .tox-editor-container,
+    .tox:not(.tox-tinymce-inline),
+    .tox-editor-header,
+    .tox-menubar,
+    .tox-toolbar__primary,
+    .tox-toolbar__group,
+    .tox .tox-tbtn:hover,
+    .tox .tox-split-button:hover,
+    .tox .tox-tbtn.tox-tbtn--enabled:hover,
+    .tox .tox-split-button .tox-tbtn.tox-split-button__chevron:hover,
+    .ic-Layout-contentMain,
+    .alert,
+    .comments,
+    .bZMhq_bGBk,
+    .file-upload-submission,
+    .canvas-rce__skins--root,
+    .tox,
+    .tox-tinymce,
+    .tox-tinymce--toolbar-sticky-off,
+    .tox-editor-container,
+    .tox:not(.tox-tinymce-inline),
+    .tox-editor-header,
+    .tox-menubar,
+    .tox-toolbar__primary,
+    .tox-toolbar__group,
+    .tox a,
+    .tox-split-button__chevron,
+    .tox .tox-tbtn svg,
+    .tox .tox-tbtn svg g,
+    .tox .tox-tbtn svg g path,
+    .tox .tox-tbtn:hover svg,
+    .tox .tox-tbtn:hover,
+    .tox .tox-split-button:hover,
+    .tox .tox-tbtn.tox-tbtn--enabled:hover,
+    .tox .tox-split-button .tox-tbtn.tox-split-button__chevron:hover,
+    .discussion-entry-reply-area,
+    .reply-box-container,
+    .hide-if-collapsed,
+    .hide-if-replying,
+    .discussion-reply-action,
+    .discussion-reply-box {
+        background: #282a36 !important;
         background-color: #282a36 !important;
         color: #f8f8f2 !important;
+        fill: #f8f8f2 !important;
     }
     .fc-day-grid-container,
     .rs-section,
