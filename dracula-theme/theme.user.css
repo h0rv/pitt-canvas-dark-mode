@@ -72,11 +72,13 @@
         background-color: #282a36
     }
     .ic-DashboardCard__header-subtitle,
-    .ellipsis {
+    .ellipsis,
+    .menu-item__text {
         color: #f8f8f2 !important
     }
     .event-details::after,
-    .ic-app-header__logomark, #footer {
+    .ic-app-header__logomark,
+    #footer {
         display: none
     }
     .percent {
