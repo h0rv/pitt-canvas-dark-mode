@@ -76,7 +76,7 @@
         color: #f8f8f2 !important
     }
     .event-details::after,
-    .ic-app-header__logomark {
+    .ic-app-header__logomark, #footer {
         display: none
     }
     .percent {
