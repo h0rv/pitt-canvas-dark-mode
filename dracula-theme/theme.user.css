@@ -240,7 +240,9 @@
     .hide-if-collapsed,
     .hide-if-replying,
     .discussion-reply-action,
-    .discussion-reply-box {
+    .discussion-reply-box,
+    .pinned-discussions-v2__wrapper,
+    .unpinned-discussions-v2__wrapper {
         background: #282a36 !important;
         background-color: #282a36 !important;
         color: #f8f8f2 !important;
