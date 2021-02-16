@@ -147,6 +147,9 @@
         background: #bd93f9 !important
     }
     /* end of dashboard */
+    .equation_image {
+        filter: invert(90%);   
+    }
     .navigation-tray-container {
         background-color: #282a36;
         color: #f8f8f2;
