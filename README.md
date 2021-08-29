@@ -1,21 +1,27 @@
 # pitt-canvas-dark-mode
-
+ 
 Dark mode for the Canvas web app for University of Pittsburgh students with the classic Pitt colors. #h2p
 
 ## Installation
+ 
 1. Download Stylus for your browser:
   - [Chrome and Edge](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
   - [Firefox](https://addons.mozilla.org/firefox/addon/styl-us/)
 
 <h2>Install the Dracula theme:</h2>
-
-_Based off of [https://draculatheme.com/](https://draculatheme.com/)._
-
-
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/robbyhorvath/pitt-canvas-dark-mode/master/dracula-theme/theme.user.css) <br/>
-
+ 
+_Based off of [https://draculatheme.com/](https://draculatheme.com/).
+ 
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/robbyhorvath/pitt-canvas-dark-mode/master/dracula-theme/theme.user.css)
+ 
+<h2>Install the Dracula theme:</h2>
+ 
+_Based off of [https://www.nordtheme.com/](https://www.nordtheme.com/).
+ 
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/robbyhorvath/pitt-canvas-dark-mode/master/nord-theme/theme.user.css) 
+ 
 <h2>Install the dark theme:</h2>
-
+ 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/robbyhorvath/pitt-canvas-dark-mode/master/dark-theme/theme.user.css)
 
 No theme:
