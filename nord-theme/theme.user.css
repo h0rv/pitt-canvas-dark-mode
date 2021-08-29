@@ -1,3 +1,9 @@
+/* ==UserStyle==
+@name           Pitt Canvas Nord Theme
+@namespace      https://github.com/robbyhorvath/pitt-canvas-dark-mode
+@version        1.0.0
+@author         https://github.com/robbyhorvath
+==/UserStyle== */
 @-moz-document url-prefix("https://canvas.pitt.edu/") {
     p,
     span,
