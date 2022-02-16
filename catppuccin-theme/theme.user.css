@@ -1,0 +1,447 @@
+/* ==UserStyle==
+@name           Pitt Canvas Catppuccin Theme
+@namespace      https://github.com/robbyhorvath/pitt-canvas-dark-mode
+@version        1.0.0
+@author         https://github.com/robbyhorvath
+==/UserStyle== */
+@-moz-document url-prefix("https://canvas.pitt.edu/") {
+    p,
+    span,
+    strong {
+        color: #D9E0EE;
+    }
+    body {
+        background-color: #1E1E2E;
+        color: #D9E0EE;
+        font-weight: 300;
+    }
+    div {
+        color: #D9E0EE
+    }
+    button {
+        color: #D9E0EE !important
+    }
+
+    a,
+    svg {
+        color: #988BA2 !important
+    }
+
+    /*  */
+    .ic-app-header__main-navigation {
+        background: #1E1E2E !important
+    }
+    .menu-item__text {
+        color: #000 !important
+    }
+    .ic-app-header__menu-list-link,
+    .ic-icon-svg {
+        fill: #ABE9B3 !important
+    }
+    .menu-item__badge {
+        background: #ABE9B3
+    }
+    .menu-item,
+    .ic-app-header__menu-list-item {
+        background: #1E1E2E !important
+    }
+    .ic-avatar {
+        border: none
+    }
+    .mobile-header-title {
+        background: #988BA2 !important
+    }
+    .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link {
+        background: #1E1E2E8c
+    }
+    .cjUyb_bGBk.cjUyb_fpfC,
+    input.cjUyb_bGBk[type].cjUyb_fpfC {
+        color: #D9E0EE;
+    }
+    /* end of nav */
+    .fQfxa_biBD {
+        color: #1E1E2E
+    }
+    .fhWLw_bGBk {
+        display: none
+    }
+    #planner-todosidebar-item-list li span {
+        color: #988BA2 !important
+    }
+    #breadcrumbs {
+        background-color: #1E1E2E
+    }
+    .ic-DashboardCard__header-subtitle,
+    .ellipsis,
+    .menu-item__text {
+        color: #D9E0EE !important
+    }
+    .event-details::after,
+    .ic-app-header__logomark,
+    #footer {
+        display: none
+    }
+    .percent {
+        color: #988BA2 !important
+    }
+    .event-details__context {
+        color: #988BA2 !important
+    }
+    .ic-Layout-contentMain {
+        background-color: #1E1E2E
+    }
+    .medium ic-Dashboard-header__layout {
+        background-color: #1E1E2E
+    }
+    .ic-Dashboard-header {
+        background-color: #1E1E2E
+    }
+    .ic-Dashboard-header__title {
+        background-color: #1E1E2E
+    }
+    .dashboard_header_container {
+        background-color: #1E1E2E
+    }
+    .ic-dashboard-app {
+        background-color: #1E1E2E
+    }
+    #content {
+        background-color: #1E1E2E
+    }
+    .ic-Dashboard-header__actions {
+        background-color: #1E1E2E
+    }
+    .dashboard-planner-header-aux {
+        background-color: #1E1E2E
+    }
+    .ic-Dashboard-header__layout {
+        background-color: #1E1E2E
+    }
+    .ic-DashboardCard__action-container {
+        background-color: #302D41
+    }
+    .ic-DashboardCard {
+        background-color: #302D41
+    }
+    .ic-DashboardCard__header_content {
+        background-color: #302D41
+    }
+    .cAqHo_eAjd {
+        background: #1E1E2E !important
+    }
+    .eoNrR_bGBk {
+        background-color: #1E1E2E
+    }
+    .eoNrR_blJt {
+        background-color: #1E1E2E;
+        color: #D9E0EE;
+    }
+    .sJGfW_bGBk {
+        background-color: #1E1E2E;
+        color: #D9E0EE;
+    }
+    .eoNrR_JelF,
+    .ctrLD_bGBk {
+        color: #D9E0EE;
+    }
+    .ic-DashboardCard__action-badge {
+        background: #ABE9B3 !important
+    }
+    /* end of dashboard */
+    .equation_image {
+        filter: invert(90%);
+    }
+    .navigation-tray-container {
+        background-color: #1E1E2E;
+        color: #D9E0EE;
+    }
+    .fLzZc_caGd {
+        background-color: #1E1E2E;
+    }
+    .ic-Dashboard-header__layout,
+    #right-side h2,
+    #right-side .h2 {
+        border: none;
+    }
+    .cAqHo_eAjd ul li span,
+    .comment {
+        color: #D9E0EE !important;
+    }
+    .eoNrR_blJt,
+    .score_value {
+        color: #988BA2 !important
+    }
+
+    /* end of account tab */
+    .btn,
+    .Button,
+    .ui-button,
+    .navigation_buttons,
+    .ui-buttonset,
+    .navigate_next,
+    .ui-button,
+    .ui-widget,
+    .ui-state-default,
+    .ui-button-text-only,
+    .ui-corner-right,
+    .agenda-container,
+    .agenda-today,
+    .fc-widget-content,
+    .ui-dialog .ui-dialog-titlebar.ui-widget-header,
+    .ui-dialog .ui-datepicker .ui-widget-header.ui-datepicker-header,
+    .ui-datepicker .ui-dialog .ui-widget-header.ui-datepicker-header,
+    .ui-tabs .ui-tabs-panel,
+    .module-sequence-footer-content,
+    .rubric_title {
+        background: #1E1E2E !important;
+    }
+    .ic-Layout-contentMain,
+    .alert,
+    .comments,
+    .bZMhq_bGBk,
+    .file-upload-submission,
+    .canvas-rce__skins--root,
+    .tox,
+    .tox-tinymce,
+    .tox-tinymce--toolbar-sticky-off,
+    .tox-editor-container,
+    .tox:not(.tox-tinymce-inline),
+    .tox-editor-header,
+    .tox-menubar,
+    .tox-toolbar__primary,
+    .tox-toolbar__group,
+    .tox .tox-tbtn:hover,
+    .tox .tox-split-button:hover,
+    .tox .tox-tbtn.tox-tbtn--enabled:hover,
+    .tox .tox-split-button .tox-tbtn.tox-split-button__chevron:hover,
+    .ic-Layout-contentMain,
+    .alert,
+    .comments,
+    .bZMhq_bGBk,
+    .file-upload-submission,
+    .canvas-rce__skins--root,
+    .tox,
+    .tox-tinymce,
+    .tox-tinymce--toolbar-sticky-off,
+    .tox-editor-container,
+    .tox:not(.tox-tinymce-inline),
+    .tox-editor-header,
+    .tox-menubar,
+    .tox-toolbar__primary,
+    .tox-toolbar__group,
+    .tox a,
+    .tox-split-button__chevron,
+    .tox .tox-tbtn svg,
+    .tox .tox-tbtn svg g,
+    .tox .tox-tbtn svg g path,
+    .tox .tox-tbtn:hover svg,
+    .tox .tox-tbtn:hover,
+    .tox .tox-split-button:hover,
+    .tox .tox-tbtn.tox-tbtn--enabled:hover,
+    .tox .tox-split-button .tox-tbtn.tox-split-button__chevron:hover,
+    .discussion-entry-reply-area,
+    .reply-box-container,
+    .hide-if-collapsed,
+    .hide-if-replying,
+    .discussion-reply-action,
+    .discussion-reply-box,
+    .pinned-discussions-v2__wrapper,
+    .unpinned-discussions-v2__wrapper {
+        background: #1E1E2E !important;
+        background-color: #1E1E2E !important;
+        color: #D9E0EE !important;
+        fill: #D9E0EE !important;
+    }
+    .fc-day-grid-container,
+    .rs-section,
+    #context-list-holde,
+    .dXATK_bGBk,
+    .dXATK_cAug,
+    .czbXA_bGBk,
+    .cDwzl_caGd,
+    .eJkkQ_bEpV,
+    #context-list .context_list_context,
+    #rubrics {
+        background-color: #302D41 !important;
+        color: #D9E0EE !important;
+    }
+    .fc-event-container,
+    .fc-day-grid-event,
+    .fc-h-event,
+    .fc-event,
+    .fc-start,
+    .fc-end,
+    .fc-day-number,
+    .fc-thu,
+    .fc-today,
+    .fc-toolbar,
+    .fc-view-container,
+    .fc-day-grid,
+    .all_questions,
+    .question .text .question_text,
+    .quiz-submission,
+    .quiz_score,
+    .last_page,
+    .quiz_sortable,
+    .question_holder,
+    .display_question,
+    #questions.assessing,
+    .question,
+    .multiple_choice_question,
+    .header,
+    th {
+        color: #D9E0EE !important;
+        background-color: #302D41 !important;
+    }
+    .fc-state-highlight {
+        background: #ABE9B3 !important
+    }
+
+    .summary tbody tr th {
+        color: #D9E0EE !important;
+        background-color: #302D41 !important;
+    }
+
+    .fc-row,
+    .fc-widget-header,
+    .fc-center,
+    .datetime_suggest {
+        color: #D9E0EE !important;
+    }
+    td {
+        color: #D9E0EE !important
+    }
+    td,
+    .fc th,
+    .fc td,
+    .discussion_entry {
+        background: #302D41 !important
+    }
+    #calendar-app .fc-month-view .fc-widget-header,
+    #calendar-drag-and-drop-container .fc-month-view .fc-widget-header {
+        background-color: #1E1E2E !important;
+        border: none;
+        color: #988BA2 !important
+    }
+    .fc-view-container {
+        border: none !important;
+    }
+
+    #calendar-feed {
+        background: #1E1E2E !important
+    }
+    .item-group-condensed .ig-list li:first-child .ig-row,
+    .item-group-condensed .ig-list li:first-of-type .ig-row,
+    .item-group-condensed .first_visible .ig-row,
+    .item-group-condensed context_module,
+    .student-view,
+    .completed,
+    .context_module_hover,
+    .ig-row,
+    .ig-published,
+    .student-view,
+    .ic-discussion-row,
+    .toolbarView,
+    .headerBar,
+    .alert-info {
+        background: #1E1E2E !important
+    }
+    .name {
+        color: #D9E0EE !important;
+    }
+
+    /*    end of courses  */
+    /* end of calender */
+    .recent-activity-header {
+        border: none
+    }
+    .ic-notification {
+        border: none
+    }
+    .ic-notification__icon {
+        background: #988BA2 !important
+    }
+    .ic-notification__content,
+    .ic-Table.ic-Table--condensed td,
+    .unpinned-discussions-v2__wrapper,
+    .discussions-v2__container-image,
+    .closed-for-comments-discussions-v2__wrapper,
+    .item-group-container,
+    .item-box,
+    .ig-header,
+    .emptyMessage,
+    .entry-content,
+    .user_content,
+    .message p {
+        background-color: #1E1E2E !important;
+        color: #D9E0EE !important;
+    }
+    .new_page {
+        color: #988BA2 !important
+    }
+    .shared-space h2 {
+        color: #988BA2 !important
+    }
+    .header-bar {
+        background: none
+    }
+
+    /* end of groups */
+    .panel,
+    .panel__primary,
+    .message-list .messages > li {
+        background-color: #1E1E2E !important;
+        color: #D9E0EE !important;
+    }
+    .message-list .messages > li h1,
+    .message-list .messages > li h2,
+    .message-list .messages > li div,
+    .message-list .messages > li h3 {
+        color: #D9E0EE !important;
+    }
+
+    .message-list .message-count {
+        background: #988BA2 !important
+    }
+
+    /* end of inbox */
+    /* scrollbar */
+    body::-webkit-scrollbar-track {
+        border: none;
+        padding: 2px 0;
+        background: #292929
+    }
+    div::-webkit-scrollbar-track {
+        border: none;
+        padding: 2px 0;
+        background: #292929
+    }
+
+    body::-webkit-scrollbar {
+        width: 5px;
+    }
+    div::-webkit-scrollbar {
+        width: 5px;
+    }
+
+    body::-webkit-scrollbar-thumb {
+        border-radius: 4px;
+        background-color: #8be9fd;
+        border: none;
+    }
+    div::-webkit-scrollbar-thumb {
+        border-radius: 4px;
+        background-color: #8be9fd;
+        border: none;
+    }
+    /* scrollbar */
+    /* drop down selections */
+    select,
+    #course_select_menu,
+    #apply_select_menus,
+    #assignment_sort_order_select_menu {
+        color: #D9E0EE;
+        background-color: #282828;
+        border-color: #988BA2
+    }
+}
